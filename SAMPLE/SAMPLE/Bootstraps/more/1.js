@@ -1,0 +1,1 @@
+﻿console.log('executed: %s', new Date().toJSON(), 'more/1.txt');
